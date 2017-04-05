@@ -1,0 +1,16 @@
+{
+  "name": "pubip",
+  "version": "1.0.3",
+  "description": "Get your public ip",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "own",
+    "public",
+    "ip"
+  ],
+  "author": "",
+  "license": "MIT"
+}
